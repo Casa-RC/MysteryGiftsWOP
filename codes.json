@@ -1,0 +1,5 @@
+{
+  "P01": { "type": "item", "item": "POTION", "quantity": 1 },
+  "F01": { "type": "pokemon", "pokemon": "FURIOSETA", "level": 5 },
+  "SP01": { "type": "item", "item": "SUPERPOTION", "quantity": 1 }
+}
